@@ -6,7 +6,6 @@ import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import busbooking from "../../Assets/Projects/busbooking.png";
-import suicide from "../../Assets/Projects/suicide.png";
 import foodOrdring from "../../Assets/Projects/foodOrdring.png";
 import netflixgpt from "../../Assets/Projects/netflixgpt.png";
 import inventory from "../../Assets/Projects/inventory2.png";
